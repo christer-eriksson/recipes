@@ -1,0 +1,40 @@
+= Chilli Sin Carne
+
+== Stek
+
+|===
+| Mägnd | Enhet | Ingrediens
+| 1     | st    | hackad gul lök
+| 1     | st    | paprika i bitar
+| 4     | st    | hackade vitlöksklyftor
+| 1     | st    | urkärnad, finhackad chili
+| 2     | msk   | olivolja
+| 1     | msk   | mald spiskummin
+| 1     | msk   | malen koriander
+| 1     | st    | kanelstång
+| 1     | msk   | socker
+| 1     | msk   | paprikapulver
+| 0.5   | tsk   | peppar
+| 1     | tsk   | salt
+|=== 
+
+Stek lök, paprika, vitlök och chili på hög värme i olja tillsammans med spiskummin, koriander, kanelstång, socker, paprikapulver, salt och peppar tills det blir brynt.
+
+== Koka
+
+|===
+| Mägnd | Enhet | Ingrediens
+| 800   | g     | hela tomater på burk
+|=== 
+
+Häll på tomaterna. Låt koka cirka 20 minuter, gärna längre.
+
+== Bönor
+
+|===
+| Mägnd | Enhet | Ingrediens
+| 340   | g     | stora vita bönor på burk
+| 340   | g     | kidneybönor på burk
+|=== 
+
+Tillsätt sköljda avrunna bönor och låt grytan bli genomvarm.

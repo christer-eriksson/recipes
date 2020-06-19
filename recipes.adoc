@@ -1,0 +1,23 @@
+= Recipes 
+
+== Index
+
+=== Bread
+<<Bread/knådfritt_vetebröd.adoc#Knådfritt vetebröd, Knådfritt vetebröd>>
+
+<<Bread/rågbröd.adoc#Rågböd med hela rågkorn, Rågböd med hela rågkorn>>
+
+<<Bread/segt_och_håligt.adoc#Segt, håligt och väldigt gott, Segt, håligt och väldigt gott>>
+
+=== Grytor
+<<Grytor/chilli_sin_carne.adoc#Chilli Sin Carne, Chilli Sin Carne>>
+
+=== Misc
+<<Misc/picklad_rödlök.adoc#Picklad Rödlök, Picklad Rödlök>>
+
+=== Potatis
+<<Potatis/klyftpotatis.adoc#Klyftpotatis, Klyftpotatis>>
+
+=== Sill
+<<Sill/lime_sill.adoc#Citron- o limesill, Citron- o limesill>>
+
