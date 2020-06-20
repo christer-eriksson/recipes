@@ -1,19 +1,33 @@
-
+= Grön ärtsoppa
 
 https://www.arla.se/recept/gron-artsoppa/[Källa]
 
-500 g
-Frysta gröna ärter
-1
-Gul lök
-7 dl
-Vatten
-2 tärningar
-Grönsaksbuljong
-2½ dl
-matlagningsgrädde
+
+== Hacka lök
+|===
+| 1    | st        | Gul lök
+|===
+
 
 Skala och hacka löken.
+
+== Koka
+|===
+| 500  | g         | Frysta gröna ärter
+| 7    | dl        | Vatten
+| 2    | tärningar | Grönsaksbuljong
+|===
+
+
 Koka upp vatten och buljongtärningar i en kastrull. Lägg i de frysta ärtorna och löken. Låt det koka under lock ca 5 min.
+
+== Mixa
+
+|===
+| 2    | dl        | vispsgrädde
+|===
+
 Mixa soppan och tillsätt grädde.
+
+== Koka upp
 Låt det koka upp.
