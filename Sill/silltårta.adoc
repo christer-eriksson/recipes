@@ -1,6 +1,7 @@
 = Silltårta
 
 == Ingredienser
+
 |===
 3+|smör
 |2     | förp | hönökaka
@@ -22,15 +23,15 @@
 Smöra samtliga bröd på ena sidan. 
 Lägg två av bröden på ett stort uppläggningsfat eller bricka så att de bildar en rind botten
 
-== Smet lager
+== Smetlager
 Fördela och bred ut den rivna osten över botten samt strö över den hackade gula löken. Bred ut gräddfilen över osten.
 
-== Ägg lager
+== Ägglager
 Lägg på nya bröd och se till att skarven kommer med en förskjutning gentemot den nedre skarven. 
 Täck dessa bröd med skivade hårdkokta ägg. 
 Krydda äggskivorna med nymald peppar samt bred ut majonäsen.
 
-== Sallads lager
+== Salladslager
 Lägg på de två sists bröden och täck dessa med ett tunt lager mycket finstrimlad grönsallad. 
 
 == Sillen
