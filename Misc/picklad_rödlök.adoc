@@ -18,6 +18,7 @@ Skala och skär rödlöken i tunna skivor.
 | Mägnd | Enhet | Ingrediens
 | 2     | dl    | Ätticksprit (12%)
 | 1     | dl    | Vatten
+| 2 1/2 | dl    | socker
 | 1     | msk   | Salt
 |=== 
 
