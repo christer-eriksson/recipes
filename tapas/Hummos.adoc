@@ -1,25 +1,47 @@
 = Hummous
 
-== Ingredienser
 
-1/3 cup good-quality tahini
-2–4 tablespoons cold water, or more if needed
-2 tablespoons extra virgin olive oil
-1/2 teaspoon ground cumin
-3/4 teaspoon fine sea salt
-2 medium cloves garlic, peeled and smashed
-juice of 1 lemon (2–3 tablespoons)
-1 (15 ounce) can chickpeas*, rinsed and drained
-optional toppings: extra drizzle of olive oil, chopped fresh parsley, sprinkle of ground sumac or paprika, toasted pine nuts
 
 == Mixa de sju
-Add tahini, cold water, olive oil, cumin, salt, garlic and lemon juice to a food processor.  Puree until smooth.
+
+|===
+| 2   | msk     | Tahini
+| 2–4 | msk     | Kallt vatten
+| 3   | msk     | olivolja
+| 1/2 | tsk     | mald spiskummin
+| 3/4 | tsk     | salt
+| 2   | klyftor | mosad vitlök
+| 2-3 | msk     | citron juice
+|===
+
+Blanda  tahini, kallt vatten, olivolja, spiskummin, salt, vitlök and citronsaft i en mixer.  Mixa tills det är jämt.
 
 == Kikärtorna
-Add in the chickpeas.  Puree for 3-4 minutes, pausing halfway to scrape down the sides of the bowl, until the hummus is smooth.  If it seems too thick, add in another tablespoon or two of water.
+
+|===
+| 400 | g  | kikärtor 
+|===
+
+Tillsätt kikärtor. Mixa ytterligare 3-4 minuter. Pausa halvvägs och peta ner smeten som fastnat på kanten. Om smeten är för tjock tillsätt ett par matskedar vatten.
 
 == Krydda
-Taste and season with additional salt, cumin, and/or lemon juice if needed.
+
+|===
+| mald spiskummin
+| salt
+| citron juice
+|===
+
+Smaka av och krydda med salt, spiskummin, och/eller citronsaft om nödvändigt.
 
 == Servera
+
+|===
+| hackad persilja
+| paprikapulver
+| pinjenötter
+| persilja
+| olivolja 
+|===
+
 Serve immediately, garnished with your desired toppings.  Or transfer to a sealed container and refrigerate for up to 3 days.
