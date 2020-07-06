@@ -7,11 +7,11 @@
 |===
 | 2   | msk     | Tahini
 | 2–4 | msk     | Kallt vatten
-| 1/2 | dl     | olivolja
+| 1/2 | dl      | olivolja
 | 1/2 | tsk     | mald spiskummin
 | 3/4 | tsk     | salt
-| 2   | klyftor | mosad vitlök
-| 2-3 | msk     | citron juice
+| 1   | klyftor | mosad vitlök
+| 1   | msk     | citron juice
 |===
 
 Blanda  tahini, kallt vatten, olivolja, spiskummin, salt, vitlök and citronsaft i en mixer.  Mixa tills det är jämt.
@@ -19,7 +19,7 @@ Blanda  tahini, kallt vatten, olivolja, spiskummin, salt, vitlök and citronsaft
 == Kikärtorna
 
 |===
-| 800 | g  | kikärtor 
+| 400 | g  | kikärtor 
 |===
 
 Tillsätt kikärtor. Mixa ytterligare 3-4 minuter. Pausa halvvägs och peta ner smeten som fastnat på kanten. Om smeten är för tjock tillsätt ett par matskedar vatten.
