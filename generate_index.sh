@@ -1,4 +1,9 @@
 #!/usr/bin/env bash 
+IMAGE_NAME="apa"
+REGISTRY="localhost:32000"
+
+[ -d target ] && rm -rf target 
+
 echo "= Recipes " > recipes.adoc
 
 echo "" >> recipes.adoc
@@ -17,5 +22,15 @@ for name in **/*.adoc ; do
     echo "" >> recipes.adoc
     oldfolder=$folder
 done
+cp recipes.adoc index.adoc
+
 
 asciidoctor *.adoc **/*.adoc
+
+
+mkdir target
+find . -name '*.html' -exec cp --parents \{\} target \;
+
+podman build -t ${IMAGE_NAME} .
+podman tag ${IMAGE_NAME} ${REGISTRY}/${IMAGE_NAME}
+podman push ${REGISTRY}/${IMAGE_NAME}
