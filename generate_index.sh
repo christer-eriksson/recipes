@@ -9,7 +9,8 @@ echo "= Recipes " > recipes.adoc
 echo "" >> recipes.adoc
 echo "== Index" >> recipes.adoc
 echo "" >> recipes.adoc
-
+IFS='
+'
 oldfolder=""
 for name in **/*.adoc ; do
     folder=$(dirname $name)
