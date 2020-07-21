@@ -1,0 +1,22 @@
+= Fisk Tacos
+
+== Tillbehör
+
+|===
+| 1   | st | Avocado
+| 400 | g  | Fryst mango (tinad)
+| 0.5 | st | salladshuvud
+| 3   | dl | Cream Fraiche
+| 1   | st | Lime (att pressa)
+¡ 1   | dl | rödkål (strimlad)
+|===
+
+* Tärna mangon
+* Strimla salladen 
+* Tina Mangon
+* Strimla rödkålen
+
+== Länkar till
+
+include::../Misc/picklad_rödlök.adoc[]
+include::../Fisk/panko_marinerad_torsk.adoc[]
