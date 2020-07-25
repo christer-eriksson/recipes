@@ -1,7 +1,5 @@
 = Hummous
 
-
-
 == Mixa de sju
 
 |===
