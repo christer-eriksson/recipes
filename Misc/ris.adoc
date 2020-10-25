@@ -3,7 +3,7 @@
 |===
 | 4 | dl  | Ris
 | 5 | dl  | Vatten 
-| 2 | msk | Salt
+| 1 | msk | Salt
 |===
 
 
