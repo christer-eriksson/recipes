@@ -3,7 +3,7 @@
 == Ingredienser:
 
 |===
-|100 | g      | tomatpuré |
+|100 | g      | tomatpuré 
 | 1  | tsk    | Torkad basilika
 |116 | g      | Vatten
 |    |        | Svartpeppar
