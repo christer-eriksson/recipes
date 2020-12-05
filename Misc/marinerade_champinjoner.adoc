@@ -2,12 +2,12 @@
 
 |=== 
 |Mägnd| Mått| Ingrediens (form)
-| xx | msk | Kickoman soy
-| 1 | msk | Shanxi Vinegar
-| 1 | st | Vitlöksklyfta (pressad)
-| 2 | msk | Vatten
-| || Chilli (torkad)
-| 500 | g | Champinjoner (tärnade)
+| xx  | msk | Kickoman soy
+| 1   | msk | Shanxi Vinegar
+| 1   | st  | Vitlöksklyfta (pressad)
+| 2   | msk | Vatten
+|     |     | Chilli (torkad)
+| 500 | g   | Champinjoner (tärnade)
 |===
 
 == Blanda
