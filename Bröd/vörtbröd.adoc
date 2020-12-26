@@ -20,8 +20,8 @@
 | 130     | g  | surdeg
 |         |    | skållningen från morgonen
 | 25      | g  | honung
-| 65      | g  | flytande vört
-| 100-200 | g  | vatten
+| 80      | g  | flytande vört
+| 0       | g  | vatten
 | 25      | g  | mörk sirap
 | 2       | g  | mald nejlika (ca 2 krm)
 | 2       | g  | mald pomerans (ca 2 krm)
@@ -42,3 +42,13 @@
 * Pensla brödet med uppvispat ägg.
 * Ställ in brödet och sänk temperaturen till 180 °C. Grädda brödet tills innertemperaturen är 98 °C.
 * Pensla brödet med smält smör när du tar ut det ur ugnen.
+
+=== Kommentarer
+
+==== 2020-12-26
+
+Under Julen 2020 misslyckades jag en hel del med dettta bröd på grund av vad jag tror var för lös deg. 
+
+Brödet smakara även lite väl lite vört och mer av "öl". 
+
+Updaterade till att inte ha vatten och 15 g mer vört och resultatet blev mycket bättre.
