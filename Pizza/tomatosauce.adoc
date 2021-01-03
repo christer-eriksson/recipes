@@ -3,12 +3,12 @@
 == Ingredienser:
 
 |===
-|100 | g      | tomatpuré 
-| 1  | tsk    | Torkad basilika
-|116 | g      | Vatten
-|    |        | Svartpeppar
-| 1  | klyfta | Vitlök (pressad)
-| 1  | nypa   | Salt
+| 100 | g      | tomatpuré 
+|   1 | tsk    | Torkad basilika
+| 116 | g      | Vatten
+|     |        | Svartpeppar
+|   1 | klyfta | Vitlök (pressad)
+|   1 | krm    | Salt
 |===
 
 == Bland 
