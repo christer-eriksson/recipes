@@ -23,8 +23,6 @@
 
 == Stek
 
-
-
 |===
 | Mägnd | Enhet | Ingrediens
 |1   |st   |gul lök (hackad)
