@@ -1,3 +1,4 @@
+
 = Rostad tomatsås
 
 == Ingredienser
@@ -10,7 +11,6 @@
 | Salt ||
 |=== 
 
-
 == Värm ugnen 
 
 Till 220 grader
@@ -21,6 +21,13 @@ Mosa vitlöksklyftorna med en kniv
 
 Lägg i och mosa  alla tomater strötsla över vitlöksklyftor
 Blanda runt Smör tomat och vitlk så att det är jämt fördelat.
+
 == In i ugnen
 
 Rör om emellan åt 
+
+== Blanda ihop
+
+- Mosa vitlöken med en gaffel 
+- ta pastan ur vattnet i kastrullen och blanda med såsen i långpannan
+- Vänd upp allt på ett fat
